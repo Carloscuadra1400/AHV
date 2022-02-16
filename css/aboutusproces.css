@@ -1,0 +1,88 @@
+.proceso{
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+    background-color: rgb(233, 232, 232);
+}
+.manufactura{
+    width: 100%;
+    height: auto;
+    
+}
+
+.pro{
+    width: 65%;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 18%;
+    margin-right: 18%;
+    
+}
+.pro h3{
+    text-align: center;
+}
+
+.pro p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+.histoyprop{
+    
+    padding: 15%;
+}
+
+.botones{
+    width: 100%;
+    height: auto;
+    display: grid;
+    margin-bottom: 10px;
+}
+.btns{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.bn{
+    margin-left: 10px ;
+}
+button{
+    text-transform: uppercase;
+    outline: 0;
+    background: rgba(136, 136, 136, 0.986);
+    width: 350px;
+    padding: 15px;
+    border: 0;
+    border-radius: 10px;
+    color: black;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 1s;
+}
+.bn a{
+    text-decoration: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+}
+footer{
+    width: 100%;
+    margin-bottom: 0%;
+
+}
+
+footer p {
+    font-size: 18px;
+}
+.bb{
+    margin-top: 15px;
+}
+.pp{
+    text-align: center;
+}
+.contain{
+    margin-bottom: 0%;
+    
+}

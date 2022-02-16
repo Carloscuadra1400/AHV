@@ -1,0 +1,24 @@
+.cartas{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+
+
+.row{
+    margin-top: 25px;
+}
+
+.card{
+    margin-right: 0%;
+}
+.card img{
+    width: 100%;
+    height: 170px;
+}
+.cartatitulo{
+    text-align: center;
+}

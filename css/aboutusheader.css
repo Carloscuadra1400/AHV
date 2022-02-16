@@ -1,0 +1,26 @@
+.bg-cover {
+    background-size: cover !important;
+    width: 100%;
+    height: 75vh;
+    background-position-x: -350px;
+    
+}
+
+
+
+.context{
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    border-style: double;
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-right: 5%;
+    justify-content: center;
+}
+
+p{
+    font-size: 30px;
+    padding: 3%;
+}
