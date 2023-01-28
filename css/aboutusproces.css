@@ -4,16 +4,62 @@
     margin-top: 10%;
     background-color: rgb(233, 232, 232);
 }
+.as{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    
+}
+.as img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
 .manufactura{
     width: 100%;
     height: auto;
+    margin-top: 15px;
     
 }
+.fund{
+    width: 100%;
+    height: auto;
+}
 
+.funda{
+    width: 65%;
+    height: auto;
+    display: grid;
+    grid-column-gap: 5px;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%; 
+}
+
+.fundamento{
+    width: 400px;
+    height: auto;
+    margin-top: 0;
+    text-align: justify;
+    margin-right: 0%;
+    margin-left: 0%;
+
+}
+.fundamento p{
+    font-size: 16px;
+}
+
+.fundamento img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+}
 .pro{
     width: 65%;
     height: auto;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-left: 18%;
     margin-right: 18%;
     
